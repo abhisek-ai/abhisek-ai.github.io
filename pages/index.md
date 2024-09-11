@@ -1,43 +1,24 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
-image: https://antfu.me/og.png
+title: Abhisek Mallick
+description: Abhisek's Portfolio
 art: random
 ---
+Hey, I am Abhisek Mallick, currently pursuing a Master’s in Data Analytics Engineering at Northeastern University, Boston, with a passion for transforming data into actionable insights. I hold a bachelor's degree in Electronics and Communication, with internship experience in AI, Machine Learning, Deep Learning, and Analytics. My goal is to leverage my technical expertise to solve complex problems, drive data-driven decisions, and contribute to innovative solutions. With a strong foundation in analytics and a keen interest in continuous learning, I am eager to explore new challenges in the field of data science and analytics.
 
-Hey, I am Anthony Fu, a fanatical open sourceror.
+Outside of academics and work, I am an avid badminton player, having competed and won in inter-school and inter-college doubles tournaments. If you're around, feel free to reach out.
 
-Working at {NuxtLabs}<br>
-Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
-Core team of {Vue} {Nuxt} {Vite}<br>
-Maintaining {Shiki} {Twoslash} {ESLint Stylistic}
 
-Dreaming up ideas and making them come true is where my passion lies. You can find my [full projects list here](/projects). I also do some generative-art, compform, interactivity experiments on [100.antfu.me](https://100.antfu.me/).
-
-I give [talks](/talks) and write [blog posts](/posts) about open source, coding, tutorials, etc. Occasionally, I also do some coding live streams on [YouTube](https://www.youtube.com/anthonyfu7) and [哔哩哔哩](https://space.bilibili.com/668380).
-
-Outside of programming, I enjoy doing photography and traveling. Some of my photos can be found on [Instagram](https://www.instagram.com/antfu7). Right now I live in Paris. If you are around, feel free to reach me out, we could have some coffee or work together.
-
-<div flex-auto />
 
 ---
 
 Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-  <a href="https://www.twitter.com/antfu7" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://chat.antfu.me" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/anthonyfu7" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-  <a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
+  <a href="https://github.com/abhisek-ai" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://www.linkedin.com/in/abhisek-mallick-144b21140/" target="_blank"><span op75 i-simple-icons-linkedin /> LinkedIn</a>
+  <a href="https://x.com/Abhisek_217" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
+  <a href="https://www.instagram.com/_itz.abhisek_" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
 </p>
-
-Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
+Or mail me at <span font-mono>mallick.ab<span i-carbon-at/>northeastern.edu</span>
 
 ---
-
-<SponsorButtons />
